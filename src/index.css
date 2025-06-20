@@ -65,3 +65,8 @@ button {
   background-color: #ff4d6d;
   color: white;
 }
+/* Navbar active link */
+.active {
+  color: #ff4d6d !important;
+  font-weight: 500;
+}
